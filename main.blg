@@ -1,0 +1,19 @@
+[1] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[1] Config.pm:307> INFO - Logfile is 'main.blg'
+[262] biber:322> INFO - === lun. juil. 25, 2022, 09:21:48
+[313] Biber.pm:415> INFO - Reading 'main.bcf'
+[542] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
+[589] Biber.pm:4256> INFO - Processing section 0
+[590] Utils.pm:75> INFO - Globbing data source 'JOHANN.bib'
+[591] Utils.pm:91> INFO - Globbed data source 'JOHANN.bib' to JOHANN.bib
+[625] Biber.pm:4455> INFO - Looking for bibtex format file 'JOHANN.bib' for section 0
+[628] bibtex.pm:1653> INFO - LaTeX decoding ...
+[653] bibtex.pm:1471> INFO - Found BibTeX data source 'JOHANN.bib'
+[658] Utils.pm:293> WARN - I didn't find a database entry for 'VR_perioperative_anxiety_2021' (section 0)
+[679] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[679] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[679] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[680] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[681] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[681] bbl.pm:755> INFO - Output to main.bbl
+[682] Biber.pm:128> INFO - WARNINGS: 1
